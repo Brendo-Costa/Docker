@@ -1,0 +1,10 @@
+
+
+# config: Ignora dados em cach criados pelos Python
+**/__pycache__
+
+# config: Ignora o ambiente virtual
+venv
+
+
+
